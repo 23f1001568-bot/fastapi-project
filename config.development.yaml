@@ -1,0 +1,5 @@
+port: 8370
+workers: 6
+debug: false
+log_level: error
+api_key: key-xxor7fwsel
